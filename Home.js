@@ -46,10 +46,6 @@ const Home = () => {
   };
 
   const updateTodo = (id) => {
-    // const todoToUpdate = todos.find((todo) => todo.id === id);
-    // if (todoToUpdate) {
-    //   setUpdateTodoData(todoToUpdate); 
-    // }
   };
 
   const filterTodos = () => {
